@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /css/
+Disallow: /images/
+
+Sitemap: https://yueji.example.com/sitemap.xml
+
+# LLMs.txt - AI 爬虫优化
+# 主索引（精简版，面向AI搜索引擎）
+LLMs: https://yueji.example.com/llms.txt
+# 完整FAQ索引（面向AI长文本处理）
+LLMs-full: https://yueji.example.com/llms-full.txt
