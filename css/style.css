@@ -503,7 +503,6 @@ img { max-width: 100%; height: auto; display: block; }
   position: relative;
   border-radius: var(--radius-lg);
   overflow: hidden;
-  aspect-ratio: 4/3;
   background: linear-gradient(135deg, #dcfce7 0%, #bbf7d0 25%, #86efac 50%, #4ade80 75%, #22c55e 100%);
 }
 
@@ -516,6 +515,16 @@ img { max-width: 100%; height: auto; display: block; }
 
 .image-card:hover img {
   transform: scale(1.05);
+}
+
+/* 文章顶部横幅图 - 匹配 hero 图片比例 (800:350) */
+.image-card-banner {
+  aspect-ratio: 800/350;
+}
+
+/* 内容插图 - 匹配 cover 图片比例 (800:450) */
+.image-card-cover {
+  aspect-ratio: 16/9;
 }
 
 .image-card-overlay {
