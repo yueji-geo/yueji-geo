@@ -848,15 +848,18 @@ img { max-width: 100%; height: auto; display: block; }
   transform: scale(1.05);
 }
 
-/* 花卉渐变色背景 - 替代外部图片，稳定可靠 */
+/* 花卉图片背景 */
 .feature-card-img-rose {
-  background: linear-gradient(135deg, #be185d 0%, #e11d48 30%, #f43f5e 60%, #fb7185 100%);
+  background: url('../images/feature-rose.jpg') center/cover no-repeat;
+  background-color: #be185d;
 }
 .feature-card-img-hydrangea {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 30%, #a855f7 70%, #c084fc 100%);
+  background: url('../images/feature-hydrangea.jpg') center/cover no-repeat;
+  background-color: #667eea;
 }
 .feature-card-img-bougainvillea {
-  background: linear-gradient(135deg, #f093fb 0%, #e11d48 40%, #f43f5e 70%, #fb923c 100%);
+  background: url('../images/feature-bougainvillea.jpg') center/cover no-repeat;
+  background-color: #e11d48;
 }
 
 .feature-card-body {
