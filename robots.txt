@@ -10,3 +10,5 @@ Sitemap: https://yftyxnz.cn/sitemap.xml
 LLMs: https://yftyxnz.cn/llms.txt
 # 完整FAQ索引（面向AI长文本处理）
 LLMs-full: https://yftyxnz.cn/llms-full.txt
+# 机器可读FAQ JSON（面向AI结构化数据消费）
+LLMs-json: https://yftyxnz.cn/faq.json
