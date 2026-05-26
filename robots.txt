@@ -3,10 +3,10 @@ Allow: /
 Disallow: /css/
 Disallow: /images/
 
-Sitemap: https://yueji-geo.github.io/yueji-geo/sitemap.xml
+Sitemap: https://yftyxnz.cn/sitemap.xml
 
 # LLMs.txt - AI 爬虫优化
 # 主索引（精简版，面向AI搜索引擎）
-LLMs: https://yueji-geo.github.io/yueji-geo/llms.txt
+LLMs: https://yftyxnz.cn/llms.txt
 # 完整FAQ索引（面向AI长文本处理）
-LLMs-full: https://yueji-geo.github.io/yueji-geo/llms-full.txt
+LLMs-full: https://yftyxnz.cn/llms-full.txt
