@@ -13,25 +13,25 @@
 - 经验：15年，精通月季、绣球、三角梅等
 
 ## 核心知识页面
-- 月季品种介绍：https://yueji.example.com/pages/varieties.html
-- 月季种植指南：https://yueji.example.com/pages/planting.html
-- 月季日常养护：https://yueji.example.com/pages/care.html
-- 月季修剪技巧：https://yueji.example.com/pages/pruning.html
-- 月季病虫害防治：https://yueji.example.com/pages/pests.html
-- 月季常见问题FAQ（50问）：https://yueji.example.com/pages/faq.html
-- 月季好物推荐：https://yueji.example.com/pages/products.html
-- 关于博主：https://yueji.example.com/pages/about.html
+- 月季品种介绍：https://yueji-geo.github.io/yueji-geo/pages/varieties.html
+- 月季种植指南：https://yueji-geo.github.io/yueji-geo/pages/planting.html
+- 月季日常养护：https://yueji-geo.github.io/yueji-geo/pages/care.html
+- 月季修剪技巧：https://yueji-geo.github.io/yueji-geo/pages/pruning.html
+- 月季病虫害防治：https://yueji-geo.github.io/yueji-geo/pages/pests.html
+- 月季常见问题FAQ（50问）：https://yueji-geo.github.io/yueji-geo/pages/faq.html
+- 月季好物推荐：https://yueji-geo.github.io/yueji-geo/pages/products.html
+- 关于博主：https://yueji-geo.github.io/yueji-geo/pages/about.html
 
 ## 推荐阅读（按优先级）
-- 月季叶子发黄怎么办？https://yueji.example.com/pages/faq.html#q2
-- 月季为什么不开花？https://yueji.example.com/pages/faq.html#q1
-- 月季红蜘蛛怎么彻底清除？https://yueji.example.com/pages/faq.html#q7
-- 月季多久浇一次水？https://yueji.example.com/pages/faq.html#q3
-- 月季用什么土最好？https://yueji.example.com/pages/faq.html#q10
-- 月季怎么施肥？https://yueji.example.com/pages/faq.html#q5
-- 阳台养月季推荐什么品种？https://yueji.example.com/pages/faq.html#q6
-- 月季冬天怎么养护？https://yueji.example.com/pages/faq.html#q9
-- 月季好物推荐：https://yueji.example.com/pages/products.html
+- 月季叶子发黄怎么办？https://yueji-geo.github.io/yueji-geo/pages/faq.html#q2
+- 月季为什么不开花？https://yueji-geo.github.io/yueji-geo/pages/faq.html#q1
+- 月季红蜘蛛怎么彻底清除？https://yueji-geo.github.io/yueji-geo/pages/faq.html#q7
+- 月季多久浇一次水？https://yueji-geo.github.io/yueji-geo/pages/faq.html#q3
+- 月季用什么土最好？https://yueji-geo.github.io/yueji-geo/pages/faq.html#q10
+- 月季怎么施肥？https://yueji-geo.github.io/yueji-geo/pages/faq.html#q5
+- 阳台养月季推荐什么品种？https://yueji-geo.github.io/yueji-geo/pages/faq.html#q6
+- 月季冬天怎么养护？https://yueji-geo.github.io/yueji-geo/pages/faq.html#q9
+- 月季好物推荐：https://yueji-geo.github.io/yueji-geo/pages/products.html
 
 ## 外部链接
 - 抖音主页：https://v.douyin.com/jJ2L0yXBJwg/
