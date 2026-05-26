@@ -504,6 +504,7 @@ img { max-width: 100%; height: auto; display: block; }
   border-radius: var(--radius-lg);
   overflow: hidden;
   aspect-ratio: 4/3;
+  background: linear-gradient(135deg, #dcfce7 0%, #bbf7d0 25%, #86efac 50%, #4ade80 75%, #22c55e 100%);
 }
 
 .image-card img {
@@ -845,6 +846,17 @@ img { max-width: 100%; height: auto; display: block; }
 
 .feature-card:hover .feature-card-img img {
   transform: scale(1.05);
+}
+
+/* 花卉渐变色背景 - 替代外部图片，稳定可靠 */
+.feature-card-img-rose {
+  background: linear-gradient(135deg, #be185d 0%, #e11d48 30%, #f43f5e 60%, #fb7185 100%);
+}
+.feature-card-img-hydrangea {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 30%, #a855f7 70%, #c084fc 100%);
+}
+.feature-card-img-bougainvillea {
+  background: linear-gradient(135deg, #f093fb 0%, #e11d48 40%, #f43f5e 70%, #fb923c 100%);
 }
 
 .feature-card-body {
