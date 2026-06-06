@@ -1,6 +1,3 @@
 User-agent: *
 Allow: /
-Disallow: /css/
-Disallow: /images/
-
 Sitemap: https://yftyxnz.cn/sitemap.xml
