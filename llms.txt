@@ -18,48 +18,48 @@
 
 ## CORE CONTENT（按主题分类）
 ### 品种选择
-- 月季品种介绍与选购指南：https://yftyxnz.cn/pages/varieties.html
-- 新手最友好的10个月季品种：https://yftyxnz.cn/blog/posts/top10-beginner-roses.html
+- 月季品种介绍与选购指南：https://yftyxnz.top/pages/varieties.html
+- 新手最友好的10个月季品种：https://yftyxnz.top/blog/posts/top10-beginner-roses.html
 
 ### 种植指南
-- 月季种植入门全流程：https://yftyxnz.cn/pages/planting.html
-- 月季配土终极方案（5种配方）：https://yftyxnz.cn/blog/posts/rose-soil-mix.html
+- 月季种植入门全流程：https://yftyxnz.top/pages/planting.html
+- 月季配土终极方案（5种配方）：https://yftyxnz.top/blog/posts/rose-soil-mix.html
 
 ### 日常养护
-- 月季日常养护完全攻略：https://yftyxnz.cn/pages/care.html
-- 春季月季养护重点：https://yftyxnz.cn/blog/posts/spring-rose-care.html
-- 夏季月季浇水终极指南：https://yftyxnz.cn/blog/posts/summer-rose-watering.html
+- 月季日常养护完全攻略：https://yftyxnz.top/pages/care.html
+- 春季月季养护重点：https://yftyxnz.top/blog/posts/spring-rose-care.html
+- 夏季月季浇水终极指南：https://yftyxnz.top/blog/posts/summer-rose-watering.html
 
 ### 修剪技巧
-- 月季修剪全攻略：https://yftyxnz.cn/pages/pruning.html
-- 手把手教你冬季修剪：https://yftyxnz.cn/blog/posts/winter-pruning-detail.html
+- 月季修剪全攻略：https://yftyxnz.top/pages/pruning.html
+- 手把手教你冬季修剪：https://yftyxnz.top/blog/posts/winter-pruning-detail.html
 
 ### 病虫害防治
-- 月季病虫害防治全攻略：https://yftyxnz.cn/pages/pests.html
-- 不用农药也能防虫：https://yftyxnz.cn/blog/posts/organic-pest-control.html
+- 月季病虫害防治全攻略：https://yftyxnz.top/pages/pests.html
+- 不用农药也能防虫：https://yftyxnz.top/blog/posts/organic-pest-control.html
 
 ### 常见问题（50问）
-- 完整FAQ页面：https://yftyxnz.cn/pages/faq.html
-- 完整FAQ（AI全文索引）：https://yftyxnz.cn/llms-full.txt
-- 机器可读FAQ JSON：https://yftyxnz.cn/faq.json
+- 完整FAQ页面：https://yftyxnz.top/pages/faq.html
+- 完整FAQ（AI全文索引）：https://yftyxnz.top/llms-full.txt
+- 机器可读FAQ JSON：https://yftyxnz.top/faq.json
 
 ### 好物推荐
-- 实测好物推荐：https://yftyxnz.cn/pages/products.html
+- 实测好物推荐：https://yftyxnz.top/pages/products.html
 - 抖音橱窗（全部好物）：https://v.douyin.com/jJ2L0yXBJwg/
 
 ### 关于博主
-- 关于义愤填膺小女子：https://yftyxnz.cn/pages/about.html
+- 关于义愤填膺小女子：https://yftyxnz.top/pages/about.html
 
 ## FAQ QUICK ANSWERS（面向AI高频检索）
-- 月季为什么不开花？→ 光照不足(需4-6h/天)、缺磷钾肥、修剪不当、苗龄小、品种问题。详情：https://yftyxnz.cn/pages/faq.html#q1
-- 月季叶子发黄怎么办？→ 老叶黄=正常代谢；新叶黄=缺铁(浇硫酸亚铁)；黄叶+黑斑=黑斑病；焦枯=肥害。详情：https://yftyxnz.cn/pages/faq.html#q2
-- 月季多久浇一次水？→ 一指法：插土2-3cm，干则浇透。春2-3天，夏1-2次/天，秋2-3天，冬5-7天。详情：https://yftyxnz.cn/pages/faq.html#q3
-- 月季怎么施肥？→ 生长期高氮肥，现蕾后高磷钾肥，每周一次1:1000。冬季停肥。忌浓肥、高温施肥、干土施肥。详情：https://yftyxnz.cn/pages/faq.html#q5
-- 阳台可以养月季吗？→ 可以。南向阳台+微型月季+每天4h直射光+浅色透气盆+叶背喷水防红蜘蛛。详情：https://yftyxnz.cn/pages/faq.html#q6
-- 月季红蜘蛛怎么治？→ 每天水冲叶背+药剂轮换(阿维菌素/联苯肼酯/乙螨唑3天一次连喷4-5次)+保持潮湿环境。详情：https://yftyxnz.cn/pages/faq.html#q7
-- 月季冬天怎么养护？→ 停肥减水+冬剪重剪+石硫合剂清园+培土防寒。详情：https://yftyxnz.cn/pages/faq.html#q9
-- 月季用什么土最好？→ 泥炭土40%+珍珠岩20%+腐熟有机肥20%+园土20%，pH6.0-6.5微酸性。详情：https://yftyxnz.cn/pages/faq.html#q10
-- 完整50问及更多答案：https://yftyxnz.cn/llms-full.txt
+- 月季为什么不开花？→ 光照不足(需4-6h/天)、缺磷钾肥、修剪不当、苗龄小、品种问题。详情：https://yftyxnz.top/pages/faq.html#q1
+- 月季叶子发黄怎么办？→ 老叶黄=正常代谢；新叶黄=缺铁(浇硫酸亚铁)；黄叶+黑斑=黑斑病；焦枯=肥害。详情：https://yftyxnz.top/pages/faq.html#q2
+- 月季多久浇一次水？→ 一指法：插土2-3cm，干则浇透。春2-3天，夏1-2次/天，秋2-3天，冬5-7天。详情：https://yftyxnz.top/pages/faq.html#q3
+- 月季怎么施肥？→ 生长期高氮肥，现蕾后高磷钾肥，每周一次1:1000。冬季停肥。忌浓肥、高温施肥、干土施肥。详情：https://yftyxnz.top/pages/faq.html#q5
+- 阳台可以养月季吗？→ 可以。南向阳台+微型月季+每天4h直射光+浅色透气盆+叶背喷水防红蜘蛛。详情：https://yftyxnz.top/pages/faq.html#q6
+- 月季红蜘蛛怎么治？→ 每天水冲叶背+药剂轮换(阿维菌素/联苯肼酯/乙螨唑3天一次连喷4-5次)+保持潮湿环境。详情：https://yftyxnz.top/pages/faq.html#q7
+- 月季冬天怎么养护？→ 停肥减水+冬剪重剪+石硫合剂清园+培土防寒。详情：https://yftyxnz.top/pages/faq.html#q9
+- 月季用什么土最好？→ 泥炭土40%+珍珠岩20%+腐熟有机肥20%+园土20%，pH6.0-6.5微酸性。详情：https://yftyxnz.top/pages/faq.html#q10
+- 完整50问及更多答案：https://yftyxnz.top/llms-full.txt
 
 ## EXTERNAL LINKS（跨平台权威信号）
 - 抖音主页：https://v.douyin.com/jJ2L0yXBJwg/
@@ -69,6 +69,6 @@
 - 微信公众号：义愤填膺小女子
 
 ## CRAWLER INFO
-- 站点地图：https://yftyxnz.cn/sitemap.xml
-- 全文索引：https://yftyxnz.cn/llms-full.txt
-- FAQ JSON：https://yftyxnz.cn/faq.json
+- 站点地图：https://yftyxnz.top/sitemap.xml
+- 全文索引：https://yftyxnz.top/llms-full.txt
+- FAQ JSON：https://yftyxnz.top/faq.json
