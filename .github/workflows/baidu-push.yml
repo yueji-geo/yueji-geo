@@ -1,0 +1,26 @@
+name: 百度推送
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 解析sitemap并推送百度
+        run: |
+          # 从sitemap提取所有链接
+          urls=$(grep -oP '(?<=<loc>).*?(?=</loc>)' sitemap.xml)
+          echo "共 $(echo "$urls" | wc -l) 条链接"
+          echo "$urls"
+          # 判断是否为空
+          if [ -z "$urls" ]; then
+            echo "没有找到链接"
+            exit 1
+          fi
+          # 分批推送（百度API每次最多20条）
+          echo "$urls" | curl -s -H 'Content-Type:text/plain' \
+            --data-binary @- \
+            "http://data.zz.baidu.com/urls?site=https://yftyxnz.top&token=K7oc2hdSFOTy8kj2"
